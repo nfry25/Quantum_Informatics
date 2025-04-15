@@ -29,5 +29,7 @@ git push
 
 ## Linux Comment
 cd Quantum_Informatics
+
 cd .. 
+
     goes back one folder
