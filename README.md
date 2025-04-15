@@ -9,10 +9,12 @@ git config --global user.email nicolas.frey@my.utsa.edu
 
 git config --global user.name "Nicolas"
 
-## Command S Before Update in Terminal
+
 
 
 ## Update Git Repository 
+
+Command S before updating in terminal
 
 git add .
 
