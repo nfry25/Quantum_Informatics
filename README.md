@@ -9,6 +9,8 @@ git config --global user.email nicolas.frey@my.utsa.edu
 
 git config --global user.name "Nicolas"
 
+git status
+
 
 
 
@@ -20,7 +22,7 @@ git add .
 
 git commit -m "updating git comments"
 
-git status
+shortcut: git -a -m "Message to describe changes done"
 
 git push
 
