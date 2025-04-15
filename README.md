@@ -11,25 +11,50 @@ git config --global user.name "Nicolas"
 
 git status
 
+    shows status for git local vs. global
+
 
 
 
 ## Update Git Repository 
 
-Command S before updating in terminal
+    ALways use Command S before updating git repository
 
 git add .
 
+    adds changes to git repository
+
 git commit -m "updating git comments"
 
-shortcut: git -a -m "Message to describe changes done"
+    message to describe changes made to git repository
+
+git -a -m "Message to describe changes done"
+
+    shortcut to add changes and describe the changes made to git repository
 
 git push
 
+    push changes made to local to global
 
-## Linux Comment
+
+## Git Comments
+
+git log
+
+    shows all prior commits from latest to initial
+
+git log -p -n
+
+    shows n number of prior commits from latest to n
+
+gitk
+
+    opens repository browser to show history of repository
+
+
+## Linux Terminal Comments
 cd Quantum_Informatics
 
-cd .. 
+cd ..
 
     goes back one folder
