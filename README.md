@@ -18,7 +18,7 @@ git status
 
 ## Update Git Repository 
 
-    ALways use Command S before updating git repository
+    Always use Command S before updating git repository
 
 git add .
 
@@ -28,13 +28,17 @@ git commit -m "updating git comments"
 
     message to describe changes made to git repository
 
-git -a -m "Message to describe changes done"
+git commit -a -m "Message to describe changes done"
 
     shortcut to add changes and describe the changes made to git repository
 
 git push
 
     push changes made to local to global
+
+git pull
+
+    pulls updated cloud git from global and pulls to local
 
 
 ## Git Comments
@@ -50,6 +54,10 @@ git log -p -n
 gitk
 
     opens repository browser to show history of repository
+
+git diff
+
+    shows branch differences
 
 
 ## Linux Terminal Comments
