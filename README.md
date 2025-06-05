@@ -61,7 +61,11 @@ git diff
 
 
 ## Linux Terminal Comments
+ls 
+
 cd Quantum_Informatics
+
+ls 
 
 cd ..
 
